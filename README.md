@@ -2,7 +2,7 @@
 - 👀 I’m interested in CV and DL
 - 📫 How to reach me 1443944073@qq.com  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true" />
 </a>
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
