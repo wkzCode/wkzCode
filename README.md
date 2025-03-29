@@ -11,16 +11,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkzCode)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.9 kB Used in GitHub's Storage 
- > 
-> 🏆 24 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                24 commits          ██████████░░░░░░░░░░░░░░░   38.71 % 
-🌆 Daytime                20 commits          ████████░░░░░░░░░░░░░░░░░   32.26 % 
-🌃 Evening                18 commits          ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+🌞 Morning                24 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
+🌆 Daytime                22 commits          █████████░░░░░░░░░░░░░░░░   34.38 % 
+🌃 Evening                18 commits          ███████░░░░░░░░░░░░░░░░░░   28.12 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Tuesday                  16 commits          ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-Wednesday                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Friday                   18 commits          ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-Saturday                 11 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Sunday                   9 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Monday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Tuesday                  16 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Wednesday                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Friday                   18 commits          ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Saturday                 13 commits          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Sunday                   9 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 ```
 
 
@@ -77,12 +74,8 @@ Java                     1 repo              ████░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/wkzCode/wkzCode/main/assets/bar_graph.png)
-
-
- Last Updated on 29/03/2025 04:03:02 UTC
+ Last Updated on 29/03/2025 04:41:24 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
