@@ -6,7 +6,7 @@
 </a>  
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/扶风)
+![Leetcode Stats](https://leetcard.jacoblin.cool/leetcode?site=cn/jacoblincool?ext=activity/jacoblincool?theme=light,unicorn/wkzCode)
 
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
