@@ -5,6 +5,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true" />
 </a>  
 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/扶风)
+
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkzCode)](https://github.com/anuraghazra/github-readme-stats)
