@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkzCode)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
 
@@ -44,16 +44,21 @@ Sunday                   11 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      2 hrs 6 mins        █████████████░░░░░░░░░░░░   50.41 % 
+BibTeX                   58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+C++                      58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+医学                       3 hrs 11 mins       ███████████████████░░░░░░   76.30 % 
+leetcode                 58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+论文                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -67,7 +72,7 @@ Java                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 30/03/2025 18:43:28 UTC
+ Last Updated on 31/03/2025 01:42:31 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
