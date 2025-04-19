@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkzCode)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -44,16 +44,16 @@ Sunday                   12 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 hrs 5 mins        █████████████████████████   99.53 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+C++                      4 hrs 49 mins       █████████████████████████   98.56 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 6 mins        █████████████████████████   99.96 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Cursor                   4 hrs 49 mins       █████████████████████████   98.66 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 💻 Operating System: 
-Windows                  6 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -67,7 +67,7 @@ Java                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 18/04/2025 18:46:05 UTC
+ Last Updated on 19/04/2025 18:43:22 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
