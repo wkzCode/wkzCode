@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkzCode)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -44,17 +44,17 @@ Sunday                   12 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      15 hrs 13 mins      ██████████████████████░░░   86.99 % 
-Python                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-BibTeX                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+TeX                      16 hrs 15 mins      █████████████████████░░░░   84.71 % 
+Python                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+BibTeX                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -68,7 +68,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2025 18:47:48 UTC
+ Last Updated on 10/05/2025 18:44:19 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
