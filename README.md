@@ -12,6 +12,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkzCode)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%207%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-153.7%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -41,17 +43,17 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 35 mins        ████████████████████░░░░░   79.85 % 
-Python                   24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Markdown                 1 hr 53 mins        █████████████████████░░░░   82.49 % 
+Python                   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
 Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        █████████████████████████   99.98 % 
+VS Code                  2 hrs 17 mins       █████████████████████████   99.98 % 
 IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -67,7 +69,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2025 18:49:31 UTC
+ Last Updated on 16/10/2025 18:49:24 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
