@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true" />
 </a>  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/wkzCode?theme=wtf&font=Tajawal&ext=activity&site=cn)
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/wkzCode?theme=wtf&font=Tajawal&ext=activity&site=cn) -->
 
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
