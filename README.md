@@ -12,7 +12,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkzCode)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.93%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -43,18 +43,18 @@ Sunday                   22 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     1 hr 49 mins        ██████████████░░░░░░░░░░░   56.08 % 
-Markdown                 44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-JavaScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Rust                     1 hr 50 mins        ███████████░░░░░░░░░░░░░░   45.65 % 
+Python                   46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Markdown                 44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+JavaScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        ███████████████░░░░░░░░░░   59.24 % 
-Unknown Editor           1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   40.76 % 
+Unknown Editor           2 hrs 5 mins        █████████████░░░░░░░░░░░░   52.11 % 
+VS Code                  1 hr 55 mins        ████████████░░░░░░░░░░░░░   47.89 % 
 
 💻 Operating System: 
-Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +70,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/05/2026 19:54:34 UTC
+ Last Updated on 09/05/2026 19:40:33 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
