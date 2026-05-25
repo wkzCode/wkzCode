@@ -43,13 +43,18 @@ Sunday                   22 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.58 % 
+Markdown                 2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
+YAML                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+CSV                      59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              4 hrs 58 mins       █████████████░░░░░░░░░░░░   50.82 % 
+VS Code                  4 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.18 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -65,7 +70,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026 19:47:17 UTC
+ Last Updated on 25/05/2026 20:09:48 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
