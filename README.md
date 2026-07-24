@@ -14,46 +14,6 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.54%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                17 commits          ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-🌆 Daytime                47 commits          ██████████████████░░░░░░░   70.15 % 
-🌃 Evening                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Tuesday                  20 commits          ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-Wednesday                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Friday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Saturday                 16 commits          ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-Sunday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   26 hrs 28 mins      ██████████████░░░░░░░░░░░   57.98 % 
-JSON                     7 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-TeX                      5 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Bash                     4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-
-🔥 Editors: 
-VS Code                  45 hrs 40 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  45 hrs 40 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -65,7 +25,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:58:17 UTC
+ Last Updated on 24/07/2026 19:57:48 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
