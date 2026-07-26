@@ -43,17 +43,17 @@ Sunday                   10 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   19 hrs 41 mins      ████████████░░░░░░░░░░░░░   49.28 % 
-JSON                     6 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Bash                     6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-TeX                      5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Python                   7 hrs 57 mins       ████████████░░░░░░░░░░░░░   47.04 % 
+TeX                      4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Bash                     3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-VS Code                  39 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  39 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -67,7 +67,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:45:08 UTC
+ Last Updated on 26/07/2026 19:46:14 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
