@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wkzCode
-- 👀 I’m interested in CV and DL
-- 📫 How to reach me 1443944073@qq.com
+- 👀 I’m interested in LLM & Emboied AI
+- 📫 How to reach me kunzhi_wang@163.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wkzCode&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
