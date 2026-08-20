@@ -12,9 +12,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkzCode)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.76%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -45,40 +45,40 @@ Sunday                   10 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     5 hrs 5 mins        ████████████░░░░░░░░░░░░░   49.19 % 
-Python                   3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.24 % 
-Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+YAML                     5 hrs 35 mins       ██████████████████░░░░░░░   73.93 % 
+Python                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 55 mins       ██████████████████████░░░   86.38 % 
-VS Code                  1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Codex Vscode             6 hrs 41 mins       ██████████████████████░░░   88.50 % 
+VS Code                  52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 
 💻 Operating System: 
-Windows                  10 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 19 mins (99.79%)
+⏱ AI Coding Time: 7 hrs 32 mins (99.71%)
 
-✍️ 3,090 lines written by AI, 1 lines written by hand (99.97% AI-written)
+✍️ 737 lines written by AI, 1 lines written by hand (99.86% AI-written)
 
-🔤 4,346,569 Input Tokens, 492,282 Output Tokens
+🔤 3,692,736 Input Tokens, 122,802 Output Tokens
 
-💵 $93.87 Estimated AI Cost This Week
+💵 $57.01 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 49 AI Prompts
+🧠 8 AI Sessions, 36 AI Prompts
 
-GPT                      3,090 lines         █████████████████████████   100.00 % 
+GPT                      737 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 3,661 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🤖 AI-Driven — 99.86% of written lines came from AI
+📚 Verbose Prompter — average 4,722 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:06:08 UTC
+ Last Updated on 20/08/2026 19:14:19 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
