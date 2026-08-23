@@ -12,30 +12,30 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkzCode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkzCode)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-297%20hrs%2041%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.76%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.69%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                17 commits          ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-🌆 Daytime                47 commits          ████████████████░░░░░░░░░   63.51 % 
-🌃 Evening                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+🌞 Morning                17 commits          ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+🌆 Daytime                47 commits          ████████████████░░░░░░░░░   65.28 % 
+🌃 Evening                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Tuesday                  21 commits          ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-Wednesday                13 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Friday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Saturday                 16 commits          █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Sunday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Tuesday                  21 commits          ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Wednesday                12 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Friday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Saturday                 16 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Sunday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 ```
 
 
@@ -45,40 +45,40 @@ Sunday                   10 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     5 hrs 35 mins       ██████████████████░░░░░░░   73.93 % 
-Python                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+YAML                     5 hrs 35 mins       ████████████████░░░░░░░░░   62.80 % 
+Other                    1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Python                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 41 mins       ██████████████████████░░░   88.50 % 
-VS Code                  52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Codex Vscode             7 hrs 28 mins       █████████████████████░░░░   83.84 % 
+VS Code                  1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
 
 💻 Operating System: 
-Windows                  7 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 32 mins (99.71%)
+⏱ AI Coding Time: 8 hrs 25 mins (94.51%)
 
-✍️ 737 lines written by AI, 1 lines written by hand (99.86% AI-written)
+✍️ 737 lines written by AI, 147 lines written by hand (83.37% AI-written)
 
-🔤 3,692,736 Input Tokens, 122,802 Output Tokens
+🔤 5,093,759 Input Tokens, 154,279 Output Tokens
 
-💵 $57.01 Estimated AI Cost This Week
+💵 $65.71 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 36 AI Prompts
+🧠 11 AI Sessions, 48 AI Prompts
 
 GPT                      737 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 4,722 characters per prompt
+🤖 AI-Driven — 83.37% of written lines came from AI
+📚 Verbose Prompter — average 4,404 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🚀 High AI Trust — 22.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 19:02:05 UTC
+ Last Updated on 23/08/2026 19:01:18 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
