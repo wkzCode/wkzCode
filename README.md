@@ -45,40 +45,41 @@ Sunday                   10 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     5 hrs 3 mins        ████████████████░░░░░░░░░   64.83 % 
-Other                    1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Markdown                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-C#                       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Other                    2 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.17 % 
+Markdown                 1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   32.28 % 
+C#                       1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 33 mins       █████████████████████░░░░   83.87 % 
-VS Code                  1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Codex Vscode             3 hrs 58 mins       ████████████████████░░░░░   78.97 % 
+VS Code                  1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
 
 💻 Operating System: 
-Windows                  7 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 16 mins (93.02%)
+⏱ AI Coding Time: 4 hrs 23 mins (87.3%)
 
-✍️ 202 lines written by AI, 150 lines written by hand (57.39% AI-written)
+✍️ 926 lines written by AI, 150 lines written by hand (86.06% AI-written)
 
-🔤 7,141,611 Input Tokens, 119,561 Output Tokens
+🔤 17,743,826 Input Tokens, 202,485 Output Tokens
 
-💵 $63.10 Estimated AI Cost This Week
+💵 $123.52 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 30 AI Prompts
+🧠 5 AI Sessions, 20 AI Prompts
 
-GPT                      461 lines           █████████████████████████   100.00 % 
+GPT                      1,158 lines         ████████████████████████░   96.98 % 
+Codex-Vscode             36 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.39% of written lines came from AI
-📚 Verbose Prompter — average 4,509 characters per prompt
+🤖 AI-Driven — 86.06% of written lines came from AI
+📚 Verbose Prompter — average 2,093 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 32.21% of changed lines were hand-edited
+🚀 High AI Trust — 15.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +93,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 19:12:12 UTC
+ Last Updated on 26/08/2026 20:39:25 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
