@@ -45,37 +45,37 @@ Sunday                   10 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 21 mins        ███████████████████░░░░░░   77.93 % 
-JSON                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Markdown                 1 hr 3 mins         ██████████████████░░░░░░░   73.15 % 
+JSON                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 16 mins        ██████████████████░░░░░░░   72.68 % 
-VS Code                  28 mins             ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+Codex Vscode             57 mins             █████████████████░░░░░░░░   66.77 % 
+VS Code                  28 mins             ████████░░░░░░░░░░░░░░░░░   33.23 % 
 
 💻 Operating System: 
-Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (98.31%)
+⏱ AI Coding Time: 1 hr 24 mins (97.94%)
 
 ✍️ 2,409 lines written by AI, 16 lines written by hand (99.34% AI-written)
 
-🔤 2,018,135 Input Tokens, 209,289 Output Tokens
+🔤 1,746,051 Input Tokens, 191,151 Output Tokens
 
-💵 $36.48 Estimated AI Cost This Week
+💵 $34.80 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 18 AI Prompts
+🧠 10 AI Sessions, 17 AI Prompts
 
 GPT                      2,034 lines         █████████████████████░░░░   84.22 % 
 Codex-Vscode             381 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.34% of written lines came from AI
-📝 Concise Prompter — average 110 characters per prompt
+📝 Concise Prompter — average 108 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.74% of changed lines were hand-edited
 ```
@@ -91,7 +91,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 21:18:00 UTC
+ Last Updated on 02/09/2026 21:16:34 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
