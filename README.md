@@ -45,39 +45,37 @@ Sunday                   10 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 3 mins         ██████████████████░░░░░░░   73.15 % 
-JSON                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+JSON                     21 mins             █████████████░░░░░░░░░░░░   51.76 % 
+Markdown                 20 mins             ████████████░░░░░░░░░░░░░   48.24 % 
 
 🔥 Editors: 
-Codex Vscode             57 mins             █████████████████░░░░░░░░   66.77 % 
-VS Code                  28 mins             ████████░░░░░░░░░░░░░░░░░   33.23 % 
+Codex Vscode             24 mins             ███████████████░░░░░░░░░░   58.43 % 
+VS Code                  17 mins             ██████████░░░░░░░░░░░░░░░   41.57 % 
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (97.94%)
+⏱ AI Coding Time: 42 mins (100.0%)
 
-✍️ 2,409 lines written by AI, 16 lines written by hand (99.34% AI-written)
+✍️ 381 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,746,808 Input Tokens, 191,876 Output Tokens
+🔤 1,184,417 Input Tokens, 73,581 Output Tokens
 
-💵 $34.88 Estimated AI Cost This Week
+💵 $9.60 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 17 AI Prompts
+🧠 4 AI Sessions, 6 AI Prompts
 
-GPT                      2,034 lines         █████████████████████░░░░   84.22 % 
-Codex-Vscode             381 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Codex-Vscode             381 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.34% of written lines came from AI
-📝 Concise Prompter — average 108 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 70 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.74% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +89,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 20:59:57 UTC
+ Last Updated on 05/09/2026 20:40:01 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
