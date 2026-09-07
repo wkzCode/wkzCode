@@ -45,36 +45,35 @@ Sunday                   10 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     21 mins             █████████████░░░░░░░░░░░░   51.76 % 
-Markdown                 20 mins             ████████████░░░░░░░░░░░░░   48.24 % 
+JSON                     21 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             24 mins             ███████████████░░░░░░░░░░   58.43 % 
-VS Code                  17 mins             ██████████░░░░░░░░░░░░░░░   41.57 % 
+VS Code                  16 mins             ███████████████████░░░░░░   74.47 % 
+Codex Vscode             5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (100.0%)
+⏱ AI Coding Time: 21 mins (100.0%)
 
 ✍️ 381 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,184,417 Input Tokens, 73,581 Output Tokens
+🔤 295,742 Input Tokens, 41,483 Output Tokens
 
-💵 $9.60 Estimated AI Cost This Week
+💵 $7.81 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 1 AI Prompts
 
 Codex-Vscode             381 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 70 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 303 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -89,7 +88,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 20:44:46 UTC
+ Last Updated on 07/09/2026 21:47:18 UTC
 <!--END_SECTION:waka-->
 <!---
 wkzCode/wkzCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
